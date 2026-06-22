@@ -57,7 +57,7 @@ Uygulama calisirken ek HTTP paketi kullanmaz.
 
 ## Ekran Goruntuleri
 
+![home](./docs/screenshots/home.png)
+![detail](./docs/screenshots/detail.png)
 ![cart](./docs/screenshots/cart.png)
 ![chekout](./docs/screenshots/checkout.png)
-![detail](./docs/screenshots/detail.png)
-![home](./docs/screenshots/home.png)
