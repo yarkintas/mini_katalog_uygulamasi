@@ -57,9 +57,7 @@ Uygulama calisirken ek HTTP paketi kullanmaz.
 
 ## Ekran Goruntuleri
 
-Ekran goruntuleri `docs/screenshots/` klasorundedir:
-
-- `home.png`
-- `detail.png`
-- `cart.png`
-- `checkout.png`
+![cart](./docs/screenshots/cart.png)
+![chekout](./docs/screenshots/checkout.png)
+![detail](./docs/screenshots/detail.png)
+![home](./docs/screenshots/home.png)
